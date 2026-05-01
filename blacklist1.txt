@@ -1,12 +1,7 @@
-# Host file to block ads, tracking and more! Updated daily
-# Homepage: https://github.com/anudeepND/blacklist
-# Mirror: https://hosts.anudeep.me/mirror/
-# Release: https://github.com/anudeepND/blacklist/releases
-# Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
-# Title: Anudeep's Blacklist
-# Expires: 1 days
-# Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,531
+# Host file to block ads, tracking and more!
+# Homepage: https://github.com/n3wLife/ad_block_lists/
+# Release: https://github.com/n3wLife/ad_block_lists
+# Title: n3wLife's Black List One
 # ===================================================================
 ## n3wLife Edits / Additions
 # ===================================================================
