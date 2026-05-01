@@ -55,9 +55,9 @@
 0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 app.usercentrics.eu
 ## Youtube Ads
-0.0.0.0 s.youtube.com
-0.0.0.0 redirector.googlevideo.com
-0.0.0.0 youtubei.googleapis.com
+# 0.0.0.0 s.youtube.com
+# 0.0.0.0 redirector.googlevideo.com
+# 0.0.0.0 youtubei.googleapis.com
 ## Mobile Attribution
 0.0.0.0 app.appsflyer.com
 0.0.0.0 bnc.lt
