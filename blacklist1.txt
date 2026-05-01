@@ -36,6 +36,42 @@
 0.0.0.0 grs.hicloud.com
 ## Facebook
 0.0.0.0 an.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 tr.facebook.com
+## Instagram
+0.0.0.0 graph.instagram.com
+0.0.0.0 i.instagram.com
+## X - Twitter
+0.0.0.0 analytics.twitter.com
+## VK
+0.0.0.0 vk.com/rtrg
+## Consent Management Platforms
+0.0.0.0 consent.cookiebot.com
+0.0.0.0 consentcdn.cookiebot.com
+0.0.0.0 consent.trustarc.com
+0.0.0.0 sdk.privacy-center.org
+0.0.0.0 cdn.privacy-mgmt.com
+0.0.0.0 app.usercentrics.eu
+## Youtube Ads
+0.0.0.0 s.youtube.com
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 youtubei.googleapis.com
+## Mobile Attribution
+0.0.0.0 app.appsflyer.com
+0.0.0.0 bnc.lt
+## Malicious Scripts
+0.0.0.0 greatis.com
+## Affiliate Networks
+0.0.0.0 impact.com
+0.0.0.0 api.impact.com
+0.0.0.0 go.skimresources.com
+0.0.0.0 redirector.skimresources.com
+0.0.0.0 redirect.viglink.com
+0.0.0.0 ssl.p.jwpcdn.com
+## Live Chat Trackers
+0.0.0.0 widget.intercom.io
+## Google
+0.0.0.0 dai.google.com
 # ===================================================================
 ## Original: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # ===================================================================
