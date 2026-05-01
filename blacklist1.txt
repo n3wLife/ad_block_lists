@@ -34,6 +34,8 @@
 0.0.0.0 tracking.rus.miui.com
 ## Huawei
 0.0.0.0 grs.hicloud.com
+## Facebook
+0.0.0.0 an.facebook.com
 # ===================================================================
 ## Original: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # ===================================================================
