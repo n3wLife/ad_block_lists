@@ -10,6 +10,8 @@
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 log.byteoversea.com
+## Pintrest
+0.0.0.0 widgets.pintrest.com
 ## Yahoo
 0.0.0.0 udcm.yahoo.com
 0.0.0.0 analytics.yahoo.com
